@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mehme/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/add_note_icon.xml" value="0.22760416666666666" />
+        <entry key="..\:/Users/mehme/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/delete_icon.xml" value="0.22760416666666666" />
+        <entry key="..\:/Users/mehme/AndroidStudioProjects/NoteApp/app/src/main/res/layout/activity_add_note.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/mehme/AndroidStudioProjects/NoteApp/app/src/main/res/layout/activity_add_note2.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/mehme/AndroidStudioProjects/NoteApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/mehme/AndroidStudioProjects/NoteApp/app/src/main/res/layout/activity_note_add.xml" value="0.25" />
+        <entry key="..\:/Users/mehme/AndroidStudioProjects/NoteApp/app/src/main/res/layout/activity_update.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/mehme/AndroidStudioProjects/NoteApp/app/src/main/res/layout/activity_update_note.xml" value="0.1984375" />
+        <entry key="..\:/Users/mehme/AndroidStudioProjects/NoteApp/app/src/main/res/layout/note_item.xml" value="0.25" />
+        <entry key="..\:/Users/mehme/AndroidStudioProjects/NoteApp/app/src/main/res/menu/new_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
